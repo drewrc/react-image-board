@@ -8,8 +8,9 @@ import ImageForm from './components/ImageForm';
 
 function App() {
   
-   return <ImageBoard />
-  
+   return (
+   <ImageBoard />
+   )
 }
 
 
